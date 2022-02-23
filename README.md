@@ -1,3 +1,11 @@
+Material Ui Design just for pratice like social media design.
+
+![Screenshot (46)](https://user-images.githubusercontent.com/77378764/155289627-6fae27f5-905b-42b0-aa72-92fb34e97a75.png)
+
+Mobile View Design
+![Screenshot (48)](https://user-images.githubusercontent.com/77378764/155290163-fda28b09-0fcb-47f1-be74-63c9eee904d1.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
